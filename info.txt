@@ -1,0 +1,4 @@
+npm i express (not with -D)
+
+on package.json, edit the test property in the scripts:
+"start": "node server.js"
